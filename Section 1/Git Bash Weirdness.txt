@@ -1,0 +1,4 @@
+Git Bash Weirdness...
+Sometimes Git Bash has issues with gets... to get around them, run your program like this:
+
+winpty ruby program_name.rb
